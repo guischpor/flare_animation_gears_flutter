@@ -16,7 +16,7 @@ class _GearsScreenState extends State<GearsScreen> {
           height: 100,
           width: 100,
           child: FlareActor(
-            'assests/AnimGearsAll.flr',
+            'assests/AnimGears.flr',
             animation: 'spin1',
           ),
         ),
