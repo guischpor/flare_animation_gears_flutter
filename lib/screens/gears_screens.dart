@@ -13,10 +13,10 @@ class _GearsScreenState extends State<GearsScreen> {
     return Scaffold(
       body: Center(
         child: Container(
-          height: 100,
-          width: 100,
+          height: 150,
+          width: 150,
           child: FlareActor(
-            'assests/AnimGears.flr',
+            'assets/AnimGears.flr',
             animation: 'spin1',
           ),
         ),
